@@ -1,5 +1,5 @@
 {
 h: identify-eu-west-1.acrcloud.com,
-ak: 5a0b191c89cd08e24e63ddbb1a4b9e07,
-as: Ux7UidgMQj3fGMwzLv7DYyAIa0w1QKEJcwifdVRB
+ak: 84291cb2ede4398f68270e6bcc78cc55,
+as: FTGC1aChiFH27YaKfAHQi4rZZPpb1fvTFJsOC9V1
 }
