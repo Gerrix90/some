@@ -1,5 +1,5 @@
 {
           "1":  "https://raw.githubusercontent.com/Gerrix90/some/master/kaseta-spreda.png",
           "2":  "https://raw.githubusercontent.com/Gerrix90/some/master/music-is-my-life.png",
-          "3": "https://raw.githubusercontent.com/Gerrix90/some/master/soly-bot2.png"
+          "3": "https://raw.githubusercontent.com/Gerrix90/some/master/soly-bot3.png"
 }
