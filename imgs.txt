@@ -1,5 +1,5 @@
 {
           "1":  "https://raw.githubusercontent.com/Gerrix90/some/master/kaseta-spreda.png",
-          "2":  "https://assets.materialup.com/uploads/20ded50d-cc85-4e72-9ce3-452671cf7a6d/music-is-my-life.png",
+          "2":  "https://raw.githubusercontent.com/Gerrix90/some/master/music-is-my-life.png",
           "3": "https://assets.materialup.com/uploads/76d63bbc-54a1-450a-a462-d90056be881b/preview.png"
 }
